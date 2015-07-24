@@ -12,6 +12,8 @@ cask google-chrome
 cask iterm2
 cask java
 cask karabiner
+cask netbeans
+cask skype
 cask virtualbox
 cask xquartz
 
@@ -43,6 +45,7 @@ brew gobject-introspection
 brew graphviz
 brew harfbuzz
 brew icu4c
+brew javarepl
 brew jpeg
 brew libevent
 brew libffi
@@ -74,4 +77,8 @@ brew xz
 brew zeromq
 
 # App Store applications
+appstore Kindle
+appstore LINE
+appstore Marked 2
+appstore Pocket
 appstore Xcode

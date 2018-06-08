@@ -19,9 +19,6 @@ tap homebrew/cask-versions
 ## homebrew/core
 tap homebrew/core
 
-## homebrew/science
-tap homebrew/science
-
 ## rcmdnk/file
 tap rcmdnk/file
 
